@@ -95,3 +95,4 @@ h3{font-family:"Space Grotesk",sans-serif;font-size:1.02rem}
  .bento,.grid3,.duo{grid-template-columns:1fr}
 }
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.orbit{animation:none}.side{transition:none}}
+
